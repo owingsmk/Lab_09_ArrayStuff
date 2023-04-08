@@ -19,7 +19,7 @@ public class Main {
             System.out.print(dataPoints[i] + " | ");
 
         final int COUNT = 100;
-        int[] dataPoints = new int[COUNT];
+
         Random r = new Random();
         for(int  i = 0 ; i < COUNT; i++){
             //populate int between 1 and 100
